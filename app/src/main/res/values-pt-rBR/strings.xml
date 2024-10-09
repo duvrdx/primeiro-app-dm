@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrimeiroApp</string>
+    <string name="et_text">Digite seu texto aqui!</string>
+    <string name="btn_send">Enviar</string>
+</resources>

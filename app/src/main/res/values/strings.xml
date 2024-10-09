@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PrimeiroApp</string>
+    <string name="et_text">Place your text here!</string>
+    <string name="btn_send">Send</string>
+</resources>
